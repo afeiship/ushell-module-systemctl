@@ -9,9 +9,10 @@
   },
   "keywords": [
     "ushell",
-    "unix",
-    "shell",
-    "ushell-module-systemctl"
+    "linux",
+    "systemctl",
+    "ctl",
+    "centos"
   ],
   "license": "MIT",
   "bugs": {

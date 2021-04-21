@@ -1,0 +1,31 @@
+{
+  "name": "@jswork/ushell-module-systemctl",
+  "version": "1.0.0",
+  "description": "Systemctl for centos.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-systemctl.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-systemctl"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-systemctl/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-systemctl",
+  "scripts": {
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^14.2.1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
